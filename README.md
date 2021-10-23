@@ -1,3 +1,2 @@
 # Blog projeto - "Fome de Quê🍔" 
-## 🌐Website desenvolvido para feira tecnológica
-
+## 🌐 https://web-recipes.vercel.app/
