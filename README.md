@@ -1,2 +1,3 @@
-# WebRecipes
-Website desenvolvido para feira tecnológica
+# Blog projeto - "Fome de Quê🍔" 
+## 🌐Website desenvolvido para feira tecnológica
+
